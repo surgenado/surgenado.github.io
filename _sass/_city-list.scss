@@ -1,0 +1,18 @@
+/**
+ * City-List
+ */
+
+ $spacing-unit:     30px;
+
+ .page-heading {
+    font-size: 20px;
+}
+
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
